@@ -8,5 +8,5 @@ userWeight = 68;
 let userHeight = 1.7;
 
 //コンソールへの出力
-let bmi = userWeight / （userHeight * userHeight);
-console.bmi
+let bmi = userWeight / (userHeight * userHeight);
+console.log(bmi)
