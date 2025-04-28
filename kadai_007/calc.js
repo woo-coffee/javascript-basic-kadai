@@ -1,4 +1,4 @@
-let num = 15
+let num = 30
 
 //numの値を出力する
 console.log(num);
@@ -12,6 +12,7 @@ if(num % 3 == 0 && num % 5 == 0){
 else if (num % 3 == 0) {
     console.log("３の倍数です")
 }
+
 //変数numが5の倍数の場合： “5の倍数です”
 else if(num % 5 == 0) {
     console.log("５の倍数です")
