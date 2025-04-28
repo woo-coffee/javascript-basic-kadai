@@ -1,7 +1,7 @@
 let num = 30
 
 //numの値を出力する
-console.log(num);
+// console.log(num);
 
 //変数numが3と5の倍数の場合： “3と5の倍数です”
 if(num % 3 == 0 && num % 5 == 0){
