@@ -5,6 +5,5 @@ const btn = document.getElementById('btn')
 
 //ボタンをクリックした際に正しく文字変更がされている
 btn.addEventListener('click',() => {
-    const text = document.createElement('h2');
-    text.textContent('ボタンをクリックしました');
+    text.textContent = 'ボタンをクリックしました';
 });
